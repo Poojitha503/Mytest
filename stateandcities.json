@@ -1,0 +1,114 @@
+"States":[
+{
+	"state": "Andrapradesh",
+	"cities": ["Visakhapatnam", "Vijayawada","Guntur","Nellore","Rajahmundry","Kurnool","Tirupati"]
+},
+{
+	"state": "Arunachal Pradesh",
+	"cities":["Along","Basar","Itanagar","Tawang","Ziro"]
+},
+{
+	"state": "Assam",
+	"cities":["Guwahati","Dispur","Jorhat","Dibrugarh","Nagaon","Tinsukia Town","Dhubri","Bongaigaon","Tezpur"]
+},
+{
+	"state": "Bihar",
+	"cities":["Patna","	Gaya","Bhagalpur","Muzaffarpur","Purnia (Purnea)","Darbhanga"]
+},
+{
+	"state": "Chhattisgarh",
+	"cities":["Raipur","Bhilai (Bhilai Nagar)","Bilaspur","Korba","Raj Nandgaon"]
+},
+{
+	"state": "Goa",
+	"cities":["Panaji (Panjim, Pangim)","Madgaon (Margao)","Mormugao (Marmagao, Mormugao)","Mapuca (Mapusa)"]
+},
+{
+	"state": "Gujarat",
+	"cities":["Gandhinagar","Ahmedabad","Surat","Vadodara","Rajkot","Bhavnagar","Jamnagar"]
+},
+{
+	"state": "Haryana",
+	"cities":["Chandigarh","Faridabad","Gurgaon","Hisar"]
+},
+{
+	"state": "Himachal Pradesh",
+	"cities":["Shimla (Simla)","Dharmsala (Dharamsala)","Baddi","Nahan","Mandi","Paonta Sahib"]
+},
+{
+	"state": "Jammu & Kashmir",
+	"cities":["Srinagar","Jammu","Anantnag"]
+},
+{
+	"state": "Jharkhand",
+	"cities":["Ranchi","Jamshedpur","Dhanbad","Bokaro"]
+},
+{
+	"state": "Karnataka",
+	"cities":["Bangluru","Mangalore","Belgam","Bidar","Humbi"]
+},
+{
+	"state": "Kerala",
+	"cities":["Thiruvananthapuram","Kochi","Kollam","Thrissur","Alappuzha","Palakkad","Malappuram","Manjeri"]
+},
+{
+	"state": "Madhya Pradesh",
+	"cities":["Bhopal [Bhopal]","Indore","Jabalpur","Gwalior","Ujjain","Sagar"]
+},
+{
+	"state": "Manipur",
+	"cities":["Imphal ","Bishnupur","Churachandpur","Chandel","Senapati ","Tamenglong","Thoubal","Ukhrul"]
+},
+{
+	"state": "Meghalaya",
+	"cities":["Shillong","Ribhoi"]
+},
+{
+	"state": "Mizoram",
+	"cities":["Aizawl"]
+},
+{
+	"state": "Nagaland",
+	"cities":["Kohima"]
+},
+{
+	"state": "Odisha (Orissa)",
+	"cities":["Bhubaneswar","Puri","Cuttack","Brahmapur"]
+},
+{
+	"state": "Punjab",
+	"cities":["Chandigarh","Amritsar"]
+},
+{
+	"state": "Rajasthan",
+	"cities":["Jaipur","Jodhpur","Kota","Bikaner"]
+},
+{
+	"state": "Sikkim",
+	"cities":["Gangtok","Gyalshing","Jorethang","Mangan"]
+},
+{
+	"state": "Tamil Nadu",
+	"cities":["Chennai","Coimbatore","Madurai","Tiruchirappalli"]
+},
+{
+	"state": "Telagana",
+	"cities":["Hyderabad","Warangal","khammam","karimnagar"]
+},
+{
+	"state": "Tripura",
+	"cities":["Agartala","Amarpur","Belonia","Dharmanagar"]
+},
+{
+	"state": "Uttar Pradesh",
+	"cities":["Lucknow","Agra","Varanasi","Allahabad","Bareilly"]
+},
+{
+	"state": "Uttarakhand",
+	"cities":["Dehardun","Haridwar","Roorkee","Rudrapur"]
+},
+{
+	"state": "West Bengal",
+	"cities":["Kolkata","Durgapur","siliguri","Baharampur"]
+},
+]
