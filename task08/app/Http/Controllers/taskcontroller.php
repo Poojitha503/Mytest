@@ -11,15 +11,22 @@ use App\task;
 use Illuminate\Support\Facades\Input;
 class taskcontroller extends Controller
 {
-   public function index()
-   {
-    if (Auth::guest()){
- return redirect('login');
-}
-   $task =task::select('user_id','taskname','id')->where('user_id',Auth::user()->id)->get();
-
-    //$task =task::latest('taskname')->get();
-    //dd($task);
+  public function index()
+  {
+    if (Auth::guest())
+    {
+     return redirect('login');
+    }
+    if(Auth::user()->id=='4')
+    {
+       $task =task::latest('taskname')->get();
+    }
+    else
+    {
+    //$task =task::select('user_id','taskname','id')->where('user_id',Auth::user()->id)->get();
+      $task =task::latest('user_id','taskname','id')->where('user_id',Auth::user()->id)->get();
+    }
+   //dd($task);
     return view('task.index',compact('task'));
    }
    public function index1(request $request)
@@ -67,7 +74,7 @@ class taskcontroller extends Controller
    }
    public function show1()
    {
-     $task=task::select('taskname','taskid')->where('done','1' )->get();
+     $task=task::select('taskname','id')->where('done','1' )->get();
      //dd($task);
      //return $task->taskname;
      //dd($task);
