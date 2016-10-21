@@ -1,145 +1,2281 @@
-"States":[
+"states":[
 {
-	"state": "Andrapradesh",
-	"cities": ["Visakhapatnam", "Vijayawada","Guntur","Nellore","Rajahmundry","Kurnool","Tirupati","Warangal","Kakinada",
-		"Kadapa","Anantapur","Eluru","Vizianagaram","Proddatur","Nandyal","Ongole","Chittoor"]
+	"name": "Andrapradesh",
+	"cities": [
+		{
+			             "name": "Amaravati",
+		                 "latitude" :"16° 50' N",
+	                     "longitude":"80° 15' E"
+	    },
+		{
+			             "name": "Vijayawada",
+		                 "latitude" :"16° 31' N",
+	                     "longitude":"80° 39' E"
+	    },
+
+		{
+		 	             "name": "vishakapatnam",
+		                 "latitude" :"17.6868° N",
+	                     "longitude":"83.2185° E"
+	    },
+		{
+		 	             "name": "Guntur",
+		                 "latitude" :"16° 18' N",
+	                     "longitude":"80° 29' E"
+	    },
+	    {
+		 	             "name": "Nellore",
+		                 "latitude" :"14° 27' N",
+	                     "longitude":"80° 02' E"
+	    },
+	    {
+		 	             "name": "Rajahmundry",
+		                 "latitude" :"17° 00' N",
+	                     "longitude":"88.77' E"
+	    },
+	    {
+		 	             "name": "Kurnool",
+		                 "latitude" :"15° 50' N",
+	                     "longitude":"78° 05' E"
+	    },
+	    {
+		 	             "name": "Tirupati",
+		                 "latitude" :"13° 40' N",
+	                     "longitude":"79° 20' E"
+	    },
+	    {
+			             "name": "Kakinada",
+		                 "latitude" :"16° 57' N",
+	                     "longitude":"82° 15' E"
+	    },
+		{
+			             "name": "Kadapa",
+		                 "latitude" :"15° 34' N	",
+	                     "longitude":"79° 09' E"
+	    },
+	    {
+			             "name": "Anantapur",
+		                 "latitude" :"14° 41' N	",
+	                     "longitude":"77° 39' E"
+	    },
+	    {
+			             "name": "Eluru",
+		                 "latitude" :"16° 43' N	",
+	                     "longitude":"81° 09' E"
+	    },
+	    {
+			             "name": "Vizianagaram",
+		                 "latitude" :"18° 07' N",
+	                     "longitude":"83° 27' E"
+	    },
+	    {
+			             "name": "Proddatur",
+		                 "latitude" :"14° 45' N	",
+	                     "longitude":"78° 35' E"
+	    },
+	    {
+			             "name": "Nandyal",
+		                 "latitude" :"15° 29' N	",
+	                     "longitude":"78° 32' E"
+	    },
+	    {
+			             "name": "Ongole",
+		                 "latitude" :"15.5057° N ",
+	                     "longitude":"80.0499° E"
+	    },
+	    {
+			             "name": "Chittoor",
+		                 "latitude" :"13° 13' N",
+	                     "longitude":"79° 08' E"
+	    }]
 },
 {
-	"state": "Arunachal Pradesh",
-	"cities":["Along","Basar","Itanagar","Tawang","Ziro","Bomdila","Changlang","Daporijo"," Deomali","Jairampur",
-		" Khonsa","Naharlagun"," Namsai"," Pasighat","Roing"," Seppa"]
+	"name": "Arunachal Pradesh",
+	"cities":[
+		{
+			             "name": "Along",
+		                 "latitude" :"28° 10'N",
+	                     "longitude":" 94° 46'E"
+	    },
+	    {
+			             "name": "Basar",
+		                 "latitude" :"27° 59'N ",
+	                     "longitude":"94° 40'E"
+	    },
+	    {
+			             "name": "Itanagar",
+		                 "latitude" :"27.0844° N",
+	                     "longitude":"93.6053° E"
+	    },
+	    {
+			             "name": "Tawang",
+		                 "latitude" :"27° 35'N",
+	                     "longitude":"91° 52'E"
+	    },
+	    {
+			             "name": "Ziro",
+		                 "latitude" :"27.5448° N",
+	                     "longitude":"93.8196° E"
+	    },
+	    {
+			             "name": "Bomdila",
+		                 "latitude" :"27.2645° N",
+	                     "longitude":"92.4159° E"
+	    },
+	    {
+			             "name": "Changlang",
+		                 "latitude" :"27.7422° N",
+	                     "longitude":"96.6424° E"
+	    },
+	    {
+			             "name": "Daporijo",
+		                 "latitude" :"27.9863° N",
+	                     "longitude":"94.2205° E"
+	    },
+	    {
+			             "name": " Deomali",
+		                 "latitude" :"18.6748° N",
+	                     "longitude":"82.9824° E"
+	    },
+	    {
+			             "name": "Jairampur",
+		                 "latitude" :"",
+	                     "longitude":"88.77"
+	    },
+		{
+			             "name": " Khonsa",
+		                 "latitude" :"27° 1' N ",
+	                     "longitude":"95° 34'  E"
+	    },
+	    {
+			             "name": "Naharlagun",
+		                 "latitude" :"27.0986° N",
+	                     "longitude":"93.6949° E"
+	    },
+	    {
+			             "name": "Namsai",
+		                 "latitude" :"27.6692° N",
+	                     "longitude":"95.8644° E"
+	    },
+	    {
+			             "name": "Pasighat",
+		                 "latitude" :"28.0619° N",
+	                     "longitude":"95.3259° E"
+	    },
+	    {
+			             "name": "Roing",
+		                 "latitude" :"28.1429° N",
+	                     "longitude":"95.8431° E"
+	    },
+	    {
+			             "name": "Seppa",
+		                 "latitude" :"27.3610° N",
+	                     "longitude":"93.0401° E"
+	    },
+{
+	"name": "Assam",
+	"cities":[
+		{
+			             "name": "Guwahati",
+		                 "latitude" :"26° 11'N	",
+	                     "longitude":"91° 44'E"
+	    },
+	    {
+			             "name": "Dispur",
+		                 "latitude" :"26.2006043",
+	                     "longitude":"92.9375739"
+	    },
+	    {
+			             "name": "Jorhat",
+		                 "latitude" :"26° 45'N",
+	                     "longitude":"94° 13'E"
+	    },
+	    {
+			             "name": "Dibrugarh",
+		                 "latitude" :"27° 29'N",
+	                     "longitude":"94° 54'E"
+	    },
+	    {
+			             "name": "Nagaon",
+		                 "latitude" :"26° 21'N",
+	                     "longitude":"92° 41'E"
+	    },
+	    {
+			             "name":"Tinsukia Town",
+		                 "latitude" :"27° 30'N",
+	                     "longitude":"95° 22'E"
+	    },
+	    {
+			             "name": "Dhubri",
+		                 "latitude" :"26° 02'N",
+	                     "longitude":"89° 58'E"
+	    },
+		{
+			             "name": "Bongaigaon",
+		                 "latitude" :"26° 28'N",
+	                     "longitude":"90° 34'E"
+	    },
+	    {
+			             "name": "Tezpur",
+		                 "latitude" :"26° 38'N",
+	                     "longitude":"92° 48'E"
+	    },
+	    {
+			             "name": "Udalguri",
+		                 "latitude" :"26.6897° N",
+	                     "longitude":"91.9099° E"
+	    },
+	    {
+			             "name":"Karimganj",
+		                 "latitude" :"24° 52'N",
+	                     "longitude":"92° 21'E"
+	    },
+	    {
+			             "name": "Cachar",
+		                 "latitude" :"24.7821° N",
+	                     "longitude":"92.8577° E"
+	    },
+	    {
+			             "name": "Jorhat",
+		                 "latitude" :"26° 45'N",
+	                     "longitude":"94° 13'E"
+	    }]
 },
 {
-	"state": "Assam",
-	"cities":["Guwahati","Dispur","Jorhat","Dibrugarh","Nagaon","Tinsukia Town","Dhubri",
-		"Bongaigaon","Tezpur","Udalguri","Karimganj","Cachar","Jorhat"]
+	"name": "Bihar",
+	"cities":[
+		{
+			             "name":"Patna",
+		                 "latitude" :"25° 37' N",
+	                     "longitude":"85° 13' E"
+	    },
+	    {
+			             "name": "Gaya",
+		                 "latitude" :"42° 49' N",
+	                     "longitude":"85° 01' E"
+	    },
+	    {
+			             "name":"Bhagalpur",
+		                 "latitude" :"25° 15' N",
+	                     "longitude":"87° 01' E"
+	    },
+	    {
+			             "name":"Muzaffarpur",
+		                 "latitude" :"26° 07' N",
+	                     "longitude":"85° 27' E"
+	    },
+	    {
+			             "name": "Arrah",
+		                 "latitude" :"25° 34' N",
+	                     "longitude":"84° 32' E"
+	    },
+	    {
+			             "name":"Begusarai",
+		                 "latitude" :"25.5184° N",
+	                     "longitude":"86.1752° E"
+	    },
+	    {
+			             "name": "Katihar",
+		                 "latitude" :"25° 30' N",
+	                     "longitude":"87° 40' E"
+	    },
+	    {
+			             "name": "Munger",
+		                 "latitude" :"25° 23' N",
+	                     "longitude":"86° 30' E"
+	    },
+	    {
+			             "name":"Chhapra",
+		                 "latitude" :"25° 47' N",
+	                     "longitude":"84° 47' E"
+	    },
+		{
+			             "name": "Purnia (Purnea)",
+		                 "latitude" :"25° 49' N",
+	                     "longitude":"87° 31' E"
+	    },
+	    {
+			             "name": "Darbhanga",
+		                 "latitude" :"26° 10' N",
+	                     "longitude":"85° 57' E"
+	    },
+	    {
+			             "name": "Bettiah",
+		                 "latitude" :"26° 48' N",
+	                     "longitude":"84° 33' E"
+	    },
+	    {
+			             "name": "Saharsa",
+		                 "latitude" :"25° 55' N",
+	                     "longitude":"86° 35' E"
+	    },
+	    {
+			             "name": "Hajipur",
+		                 "latitude" :"25° 41' N",
+	                     "longitude":"85° 57' E"
+	    },
+	    {
+			             "name": "Dehri",
+		                 "latitude" :"",
+	                     "longitude":""
+	    },
+	    {
+			             "name": "Siwan",
+		                 "latitude" :"",
+	                     "longitude":""
+	    },
+	    {
+			             "name": "Motihari",
+		                 "latitude" :"26° 40' N",
+	                     "longitude":"85° 14' E"
+	    },
+	    {
+			             "name": "Nawada",
+		                 "latitude" :"24° 53' N",
+	                     "longitude":"85° 35' E"
+	    }]
 },
 {
-	"state": "Bihar",
-	"cities":["Patna","	Gaya","Bhagalpur","Muzaffarpur","Arrah","Begusarai","Katihar","Munger","Chhapra",
-		"Purnia (Purnea)","Darbhanga","Bettiah","Saharsa","Hajipur","Dehri","Siwan","Motihari","Nawada"]
+	"name": "Chhattisgarh",
+	"cities":[
+		{
+			             "name":"Raipur",
+		                 "latitude" :"21° 15' N",
+	                     "longitude":"81° 41' E"
+	    },
+	    {
+			             "name": "Bhilai (Bhilai Nagar)",
+		                 "latitude" :"24.9277° N",
+	                     "longitude":"84.1910° E"
+	    },
+	    {
+			             "name": "Bilaspur",
+		                 "latitude" :"22° 05' N",
+	                     "longitude":"82° 13' E"
+	    },
+		{
+			             "name": "Korba",
+		                 "latitude" :"",
+	                     "longitude":""
+	    },
+	    {
+			             "name": "Raj Nandgaon",
+		                 "latitude" :"21° 05' N",
+	                     "longitude":"81° 05' E"
+	    },
+	    {
+			             "name": "Raigarh",
+		                 "latitude" :"22.3595° N",
+	                     "longitude":"82.7501° E"
+	    },
+	    {
+			             "name":"Jagdalpur",
+		                 "latitude" :"19° 05' N",
+	                     "longitude":"82° 04' E"
+	    },
+	    {
+			             "name":"Ambikapur",
+		                 "latitude" :"23° 10' N",
+	                     "longitude":"83° 15' E"
+	    },
+	    {
+			             "name":"Chirmiri",
+		                 "latitude" :"23.1880° N",
+	                     "longitude":"82.3542° E"
+	    },
+	    {
+			             "name":"Pakhanjore",
+		                 "latitude" :"21° 14' N",
+	                     "longitude":"82° 54' E"
+	    },
+	    {
+			             "name": "Dhamtari",
+		                 "latitude" :"20° 42' N",
+	                     "longitude":"81° 34' E"
+	    },
+	    {
+			             "name": "Mahasamund",
+		                 "latitude" :"21.1091° N",
+	                     "longitude":"82.0979° E"
+	    }]
 },
 {
-	"state": "Chhattisgarh",
-	"cities":["Raipur","Bhilai (Bhilai Nagar)","Bilaspur",
-		"Korba","Raj Nandgaon","Raigarh","Jagdalpur","Ambikapur","Chirmiri","Pakhanjore","Dhamtari","Mahasamund"]
+	"name": "Goa",
+	"cities":[
+		{
+			             "name": "Panaji (Panjim, Pangim)",
+		                 "latitude" :"15° 29' 48.3972'' N",
+	                     "longitude":""
+	    },
+	    {
+			             "name":"Madgaon (Margao)",
+		                 "latitude" :"15.2677° N",
+	                     "longitude":"73.9702° E"
+	    },
+	    {
+			             "name": "Mormugao (Marmagao, Mormugao)",
+		                 "latitude" :"15.3874° N ",
+	                     "longitude":"73.8154° E"
+	    },
+	    
+		{
+			             "name": "Cuncolim",
+		                 "latitude" :"15.1742° N",
+	                     "longitude":"73.9828° E"
+	    },
+	    {
+			             "name":"Canacona",
+		                 "latitude" :"14.9931° N",
+	                     "longitude":" 74.0476° E"
+	    },
+	    {
+			             "name": "Curchorem",
+		                 "latitude" :"15.2417° N",
+	                     "longitude":"74.1123° E"
+	    },
+	    {
+			             "name": "Pernem",
+		                 "latitude" :"15.7198° N",
+	                     "longitude":"73.7963° E"
+	    },
+	    {
+			             "name":"Ponda",
+		                 "latitude" :"15.3991° N",
+	                     "longitude":"74.0124° E"
+	    },
+	    {
+			             "name":"Quepem",
+		                 "latitude" :"15.2282° N",
+	                     "longitude":"74.0647° E"
+	    },
+	    {
+			             "name":"Sanguem",
+		                 "latitude" :"15.2302° N",
+	                     "longitude":"74.1504° E"
+	    },
+	    {
+			             "name":"Sanquelim",
+		                 "latitude" :"15.5583° N",
+	                     "longitude":"74.0124° E"
+	    },
+	    {
+			             "name": "Valpoi",
+		                 "latitude" :"15.5300° N",
+	                     "longitude":"74.1301° E"
+	    }]
 },
 {
-	"state": "Goa",
-	"cities":["Panaji (Panjim, Pangim)""Madgaon (Margao)","Mormugao (Marmagao, Mormugao)","Mapuca (Mapusa)",
-		"Cuncolim","Canacona","Curchorem","Pernem","Ponda","Quepem","Sanguem","Sanquelim","Valpoi"]
+	"name": "Gujarat",
+	"cities":[
+		{
+			             "name": "Gandhinagar",
+		                 "latitude" :"23.2156° N",
+	                     "longitude":"72.6369° E"
+	    },
+	    {
+			             "name": "Ahmedabad",
+		                 "latitude" :"23° 03' N",
+	                     "longitude":"	72° 40' E"
+	    },
+	    {
+			             "name": "Nadiad",
+		                 "latitude" :"22.6916° N",
+	                     "longitude":"72.8634° E"
+	    },
+	    {
+			             "name": "Anand",
+		                 "latitude" :"22° 32' N	",
+	                     "longitude":"73° 00' E"
+	    },
+	    {
+			             "name": "Morbi",
+		                 "latitude" :"22° 49' N	",
+	                     "longitude":"70° 54' E"
+	    },
+	    {
+			             "name":"Surendranagar",
+		                 "latitude" :"22.7739° N",
+	                     "longitude":"71.6673° E"
+	    },
+	    {
+			             "name": "Bharuch",
+		                 "latitude" :"21° 41' N	",
+	                     "longitude":"73° 01' E"
+	    },
+		{
+			             "name":"Surat",
+		                 "latitude" :"21.1702° N",
+	                     "longitude":"72.8311° E"
+	    },
+	    {
+			             "name":"Vadodara",
+		                 "latitude" :"22° 00' N	",
+	                     "longitude":"73° 16' E"
+	    },
+	    {
+			             "name": "Rajkot",
+		                 "latitude" :"22° 18' N	",
+	                     "longitude":"70° 56' E"
+	    },
+	    {
+			             "name":"Bhavnagar",
+		                 "latitude" :"21° 46' N	",
+	                     "longitude":"72° 11' E"
+	    },
+	    {
+			             "name":"Jamnagar",
+		                 "latitude" :"22° 27' N	",
+	                     "longitude":"70° 07' E"
+	    },
+	    {
+			             "name":"Gandhidham",
+		                 "latitude" :"23.0753° N",
+	                     "longitude":"70.1337° E"
+	    },
+	    {
+			             "name":"Vapi",
+		                 "latitude" :"20.3893° N",
+	                     "longitude":"72.9106° E"
+	    },
+	    {
+			             "name":"Ankleshvar",
+		                 "latitude" :"21° 38' N	",
+	                     "longitude":"73° 02' E"
+	    },
+	    {
+			             "name":"Botad",
+		                 "latitude" :"22.1704° N",
+	                     "longitude":"71.6684° E"
+	    },
+	    {
+			             "name":"Palanpur",
+		                 "latitude" :"24° 12' N	",
+	                     "longitude":"72° 28' E"
+	    },
+	    {
+			             "name": "patan",
+		                 "latitude" :"23° 52' N	",
+	                     "longitude":"72° 1' E"
+	    }]
 },
 {
-	"state": "Gujarat",
-	"cities":["Gandhinagar","Ahmedabad","Nadiad","Anand","Morbi","Surendranagar","Bharuch",
-		"Surat","Vadodara","Rajkot","Bhavnagar","Jamnagar","Gandhidham","Vapi","Ankleshvar","Botad","Palanpur","patan"]
+	"name": "Haryana",
+	"cities":[
+		{
+			             "name": "Chandigarh",
+		                 "latitude" :"30.7333° N",
+	                     "longitude":"76.7794° E"
+	    },
+	    {
+			             "name": "Faridabad",
+		                 "latitude" :"28° 25' N",
+	                     "longitude":"77° 22' E"
+	    },
+	    {
+			             "name":"Ambala",
+		                 "latitude" :"30° 21' N",
+	                     "longitude":"76° 52' E"
+	    },
+	    {
+			             "name":"Yamunanagar",
+		                 "latitude" :"30.1290° N",
+	                     "longitude":"77.2674° E"
+	    },
+	    {
+			             "name":"Rohtak",
+		                 "latitude" :"30° 1' N",
+	                     "longitude":"75° 17' E"
+	    },
+	    {
+			             "name":"Panchkula",
+		                 "latitude" :"30.6942° N",
+	                     "longitude":"76.8606° E"
+	    },
+	    {
+			             "name": "Bhiwani",
+		                 "latitude" :"28° 46' N",
+	                     "longitude":"76° 18' E"
+	    },
+	    {
+			             "name":"Sirsa",
+		                 "latitude" :"29.5611° N",
+	                     "longitude":"74.8741° E"
+	    },
+	    {
+			             "name":"Bahadurgarh",
+		                 "latitude" :"28.6924° N",
+	                     "longitude":"76.9240° E"
+	    },
+	    {
+			             "name": "Jind",
+		                 "latitude" :"29° 48' N",
+	                     "longitude":"78° 26' E"
+	    },
+		{
+			             "name": "Gurgaon",
+		                 "latitude" :"28° 37' N",
+	                     "longitude":"77° 04' E"
+	    },
+	    {
+			             "name": "Hisar",
+		                 "latitude" :"29° 19' N",
+	                     "longitude":"76° 23' E"
+	    },
+	    {
+			             "name":"Panipat",
+		                 "latitude" :"29.3909° N",
+	                     "longitude":"76.9635° E"
+	    },
+	    {
+			             "name":"Thanesar",
+		                 "latitude" :"29.9696° N",
+	                     "longitude":"76.8198° E"
+	    },
+	    {
+			             "name":"Kaithal",
+		                 "latitude" :"29.7857° N",
+	                     "longitude":"76.3985° E"
+	    },
+	    {
+			             "name": "Rewari",
+		                 "latitude" :"29° 44' N",
+	                     "longitude":"76° 38' E"
+	    },
+	    {
+			             "name": "Palwal",
+		                 "latitude" :"28.1487° N",
+	                     "longitude":"77.3320° E"
+	    }]
 },
 {
-	"state": "Haryana",
-	"cities":["Chandigarh","Faridabad","Ambala","Yamunanagar","Rohtak","Panchkula","Bhiwani","Sirsa","Bahadurgarh","Jind"
-		"Gurgaon","Hisar","Panipat","Thanesar","Kaithal","Rewari","Palwal"]
+	"name": "Himachal Pradesh",
+	"cities":[
+		{
+			             "name": "Shimla (Simla)",
+		                 "latitude" :"31° 06' N	",
+	                     "longitude":"77° 13' E"
+	    },
+	    {
+			             "name": "Dharmsala (Dharamsala)",
+		                 "latitude" :"32° 16' N	",
+	                     "longitude":"76° 23' E"
+	    },
+	    {
+			             "name": "Baddi",
+		                 "latitude" :"31° 30' N	",
+	                     "longitude":"76° 55' E"
+	    },
+	    {
+			             "name": "Nahan",
+		                 "latitude" :"30° 33' N	",
+	                     "longitude":"77° 21' E"
+	    },
+	    {
+			             "name": "Mandi",
+		                 "latitude" :"31° 43' N	",
+	                     "longitude":"76° 58' E"
+	    },
+	    {
+			             "name": "Paonta Sahib",
+		                 "latitude" :"30.4453° N",
+	                     "longitude":"77.6021° E"
+	    },
+	    {
+			             "name": "Chamba",
+		                 "latitude" :"32° 29' N	",
+	                     "longitude":"76° 10' E"
+	    },
+	    {
+			             "name":"Hamirpur",
+		                 "latitude" :"31.6798° N",
+	                     "longitude":"76.5026° E"
+	    },
+		{
+			             "name": "Kangra",
+		                 "latitude" :"	32° 05' N",
+	                     "longitude":"76° 18' E"
+	    },
+	    {
+			             "name":"Kullu",
+		                 "latitude" :"31.8246° N",
+	                     "longitude":"77.4702° E"
+	    },
+	    {
+			             "name": "Una",
+		                 "latitude" :"32° 11' N	",
+	                     "longitude":"76° 23' E"
+	    },
+	    {
+			             "name":"Sirmaur",
+		                 "latitude" :"30.5628° N",
+	                     "longitude":"77.4702° E"
+	    },
+	    {
+			             "name": "Solan",
+		                 "latitude" :"30.9045° N",
+	                     "longitude":"77.0967° E"
+	    }]
 },
 {
-	"state": "Himachal Pradesh",
-	"cities":["Shimla (Simla)","Dharmsala (Dharamsala)","Baddi","Nahan","Mandi","Paonta Sahib","Chamba","Hamirpur",
-		"Kangra","Kullu","Una","Sirmaur","Solan"]
+	"name": "Jammu & Kashmir",
+	"cities":[
+		{
+			             "name":"Srinagar",
+		                 "latitude" :"34.0837° N",
+	                     "longitude":"74.7973° E"
+	    },
+	    {
+			             "name": "Jammu",
+		                 "latitude" :"32° 43' N	",
+	                     "longitude":"74° 54' E"
+	    },
+	    {
+			             "name": "Anantnag",
+		                 "latitude" :"33.7311° N",
+	                     "longitude":"75.1487° E"
+	    }]
 },
 {
-	"state": "Jammu & Kashmir",
-	"cities":["Srinagar","Jammu","Anantnag"]
+	"name": "Jharkhand",
+	"cities":[{
+			             "name": "Ranchi",
+		                 "latitude" :"23° 23' N	",
+	                     "longitude":"85° 23' E"
+	    },
+	    {
+			             "name": "Jamshedpur",
+		                 "latitude" :"22° 50' N",
+	                     "longitude":"86° 10' E"
+	    },
+	    {
+			             "name":"Dhanbad",
+		                 "latitude" :"23° 47' N	",
+	                     "longitude":"86° 30' E"
+	    },
+	    {
+			             "name":"Bokaro",
+		                 "latitude" :"23.6693° N",
+	                     "longitude":"86.1511° E"
+	    },
+	    {
+			             "name":"Giridih",
+		                 "latitude" :"24° 10' N",
+	                     "longitude":"86° 21' E"
+	    },
+	    {
+			             "name":"Hazaribag",
+		                 "latitude" :"23° 59' N	",
+	                     "longitude":"85° 25' E"
+	    },
+	    {
+			             "name":"Ramgarh",
+		                 "latitude" :"23° 38' N	",
+	                     "longitude":"85° 34' E"
+	    },
+	    {
+			             "name":"Palamu",
+		                 "latitude" :"23° 52' N	",
+	                     "longitude":"84° 17' E"
+	    },
+	    {
+			             "name":"Dhanbad",
+		                 "latitude" :"23° 47' N",
+	                     "longitude":"86° 30' E"
+	    }]
 },
 {
-	"state": "Jharkhand",
-	"cities":["Ranchi","Jamshedpur","Dhanbad","Bokaro","Giridih","Hazaribag","Ramgarh","Palamu","Dhanbad"]
+	"name": "Karnataka",
+	"cities":[
+		{
+			             "name":"Bangluru",
+		                 "latitude" :"12.9716° N ",
+	                     "longitude":"77.5946° E"
+	    },
+	    {
+			             "name":"Mangalore",
+		                 "latitude" :"12° 52' N",
+	                     "longitude":"74° 53' E"
+	    },
+	    {
+			             "name":"Belgam",
+		                 "latitude" :"15° 52' N	",
+	                     "longitude":"74° 34' E"
+	    },
+	    {
+			             "name":"Bidar",
+		                 "latitude" :"17° 55' N	",
+	                     "longitude":"77° 39' E"
+	    },
+	    {
+			             "name":"Humbi",
+		                 "latitude" :"15° 20' N	",
+	                     "longitude":"76° 30' E"
+	    },
+	    {
+			             "name":"Bagalkot",
+		                 "latitude" :"16° 12' N	",
+	                     "longitude":"75° 45' E"
+	    },
+	    {
+			             "name": "Udupi",
+		                 "latitude" :"17° 00' N	",
+	                     "longitude":"76° 57' E"
+	    },
+	    {
+			             "name":"Tumakuru",
+		                 "latitude" :"13° 20' N	",
+	                     "longitude":"77° 08' E"
+	    },
+	    {
+			             "name":"Shivamogga",
+		                 "latitude" :"13° 56' N	",
+	                     "longitude":"75° 38 E"
+	    },
+	    {
+			             "name":"Raichur",
+		                 "latitude" :"16.2120° N",
+	                     "longitude":" 77.3439° E"
+	    },
+		{
+			             "name":"Belagavi",
+		                 "latitude" :"16° 33' N	",
+	                     "longitude":"76° 05' E"
+	    },
+	    {
+			             "name":"Bellary",
+		                 "latitude" :"15° 09' N	",
+	                     "longitude":"76° 55' E"
+	    },
+	    {
+			             "name":"Vijayapura",
+		                 "latitude" :"15° 20' N	",
+	                     "longitude":"76° 30' E"
+	    },
+	    {
+			             "name":"Yadgir",
+		                 "latitude" :"16.7602° N",
+	                     "longitude":"77.1428° E"
+	    },
+	    {
+			             "name": "Shivamogga",
+		                 "latitude" :"13.9299° N",
+	                     "longitude":"75.5681° E"
+	    },
+	    {
+			             "name": "Mysuru",
+		                 "latitude" :"12° 18' N	",
+	                     "longitude":"76° 42' E"
+	    },
+	    {
+			             "name":"Mandya",
+		                 "latitude" :"12.5222° N",
+	                     "longitude":"76.9009° E"
+	    },
+	    {
+			             "name":"Koppal",
+		                 "latitude" :"15° 20' N",
+	                     "longitude":"76° 13' E"
+	    },
+	    {
+			             "name": "Kolar",
+		                 "latitude" :"13° 09' N	",
+	                     "longitude":"78° 11' E"
+	    },
+	    {
+			             "name": "Kodagu",
+		                 "latitude" :"12.3375° N",
+	                     "longitude":"75.8069° E"
+	    }]
 },
 {
-	"state": "Karnataka",
-	"cities":["Bangluru","Mangalore","Belgam","Bidar","Humbi","Bagalkot","Udupi","Tumakuru","Shivamogga","Raichur",
-		"Belagavi","Bellary","Vijayapura","Yadgir","Shivamogga","Mysuru","Mandya","Koppal","Kolar","Kodagu"]
+	"name": "Kerala",
+	"cities":[
+		{
+			             "name":"Thiruvananthapuram",
+		                 "latitude" :"9° 56' 20.7348'' N",
+	                     "longitude":"76° 16' 13.8828'' E"
+	    },
+	    {
+			             "name":"Kochi",
+		                 "latitude" :"9° 58' N	",
+	                     "longitude":"76° 17 E"
+	    },
+	    {
+			             "name":"Kollam",
+		                 "latitude" :"8.8932° N",
+	                     "longitude":"76.6141° E"
+	    },
+	    {
+			             "name":"Thrissur",
+		                 "latitude" :"10° 30' N	",
+	                     "longitude":"76° 15 E"
+	    },
+	    {
+			             "name":"Alappuzha",
+		                 "latitude" :"9° 30' N",
+	                     "longitude":"76° 23 E"
+	    },
+	    {
+			             "name":"Palakkad",
+		                 "latitude" :"10.7867° N",
+	                     "longitude":"76.6548° E"
+	    },
+	    {
+			             "name":"Malappuram",
+		                 "latitude" :"11.0732° N",
+	                     "longitude":"76.0740° E"
+	    },
+	    {
+			             "name":"Manjeri",
+		                 "latitude" :"11.1203° N",
+	                     "longitude":"76.1200° E"
+	    }]
 },
 {
-	"state": "Kerala",
-	"cities":["Thiruvananthapuram","Kochi","Kollam","Thrissur","Alappuzha","Palakkad","Malappuram","Manjeri"]
+	"name": "Maharastra",
+	"cities":[
+		{
+			             "name":"Mumbai",
+		                 "latitude" :"19.0760° N",
+	                     "longitude":"72.8777° E"
+	    },
+	    {
+			             "name":"Kolhapur",
+		                 "latitude" :"16° 42' N",
+	                     "longitude":"74° 16' E"
+	    },
+	    {
+			             "name":"Pune",
+		                 "latitude" :"18° 31' N	",
+	                     "longitude":"73° 55' E"
+	    },
+	    {
+			             "name":"Sangli",
+		                 "latitude" :"16° 52' N",
+	                     "longitude":"74° 36' E"
+	    },
+	    
+	    {
+			             "name":"Solapur",
+		                 "latitude" :"17.6599° N",
+	                     "longitude":"75.9064° E"
+	    },
+	    {
+			             "name":"Ahmednagar",
+		                 "latitude" :"19° 05' N",
+	                     "longitude":"74° 48' E"
+	    },
+	    {
+			             "name":"Dhule",
+		                 "latitude" :"20° 58' N",
+	                     "longitude":"74° 47' E"
+	    },
+	    {
+			             "name":"Jalgaon",
+		                 "latitude" :"21° 05' N",
+	                     "longitude":"75° 40' E"
+	    },
+	    {
+			             "name":"Nandurbar",
+		                 "latitude" :"21° 23' N",
+	                     "longitude":"74° 19' E"
+	    },
+        {
+			             "name":"Nashik",
+		                 "latitude" :"20° 02' N",
+	                     "longitude":"73° 50' E"
+	    },
+	    {
+			             "name":"Nagpur",
+		                 "latitude" :"21° 09' N	",
+	                     "longitude":"79° 09' E"
+	    },
+	    {
+			             "name":"Aurangabad",
+		                 "latitude" :"19° 53' N	",
+	                     "longitude":"75° 23' E"
+	    },
+	    {
+			             "name":"Amravati",
+		                 "latitude" :"20° 56' N	",
+	                     "longitude":"77° 48' E"
+	    },
+	    {
+			             "name":"Hingoli",
+		                 "latitude" :"19° 43' N	",
+	                     "longitude":"77° 11' E"
+	    },
+	    
+	    {
+			             "name":"Beed",
+		                 "latitude" :"18.9220° N",
+	                     "longitude":"75.8069° E"
+	    },
+	    {
+			             "name":"Jalna",
+		                 "latitude" :"19° 51' N",
+	                     "longitude":"75° 56' E"
+	    },
+	    {
+			             "name":"Osmanabad",
+		                 "latitude" :"18° 08' N",
+	                     "longitude":"76° 06' E"
+	    }]
 },
 {
-	"state": "Maharastra",
-	"cities":["Mumbai","Kolhapur","Pune","Sangli","Satara","Solapur","Ahmednagar","Dhule","Jalgaon","Nandurbar",
-"Nashik","Nagpur","Aurangabad","Amravati","Hingoli","Aurangabad","Beed","Jalna","Osmanabad"]
+	"name": "Madhya Pradesh",
+	"cities":[
+		{
+			             "name":"Bhopal [Bhopal]",
+		                 "latitude" :"23° 16' N	",
+	                     "longitude":"77° 36' E"
+	    },
+	    {
+			             "name":"Indore",
+		                 "latitude" :"22° 44' N	",
+	                     "longitude":"75° 50' E"
+	    },
+	    {
+			             "name":"Jabalpur",
+		                 "latitude" :"23° 43' N	",
+	                     "longitude":"81° 50' E"
+	    },
+	    {
+			             "name":"Gwalior",
+		                 "latitude" :"26° 14' N	",
+	                     "longitude":"78° 10' E"
+	    },
+	    {
+			             "name":"Sagar",
+		                 "latitude" :"23° 5' N",
+	                     "longitude":"78° 5' E"
+	    },
+	    {
+			             "name":"Gwalior",
+		                 "latitude" :"",
+	                     "longitude":"88.77"
+	    },
+	    {
+			             "name":"Ujjain",
+		                 "latitude" :"23° 09' N	",
+	                     "longitude":"75° 43' E"
+	    },
+	    {
+			             "name":"Dewas",
+		                 "latitude" :"22° 58' N",
+	                     "longitude":"78° 06' E"
+	    },
+		{
+			             "name":"Satna",
+		                 "latitude" :"24° 34' N	",
+	                     "longitude":"80° 55' E"
+	    },
+	    {
+			             "name":"Ratlam",
+		                 "latitude" :"23° 31' N	",
+	                     "longitude":"75° 07' E"
+	    },
+	    {
+			             "name":"Chhindwara",
+		                 "latitude" :"22° 03' N	",
+	                     "longitude":"78° 59' E"
+	    },
+	    {
+			             "name":"Chhatarpur",
+		                 "latitude" :"22° 03' N",
+	                     "longitude":"78° 59' E"
+	    },
+	    {
+			             "name":"Damoh",
+		                 "latitude" :"23° 50' N",
+	                     "longitude":"	79° 29' E"
+	    },
+	    {
+			             "name":"Khargone",
+		                 "latitude" :"21.9029° N",
+	                     "longitude":"75.8069° E"
+	    },
+	    {
+			             "name":"Neemuch",
+		                 "latitude" :"	24° 27' N",
+	                     "longitude":"74° 52' E"
+	    },
+	    {
+			             "name":"Pithampur",
+		                 "latitude" :"23° 04' N	",
+	                     "longitude":"79° 2' E"
+	    },
+	    {
+			             "name":"Itarsi",
+		                 "latitude" :"22° 30' N",
+	                     "longitude":"77° 55' E"
+	    },
+	    {
+			             "name":"Sehore",
+		                 "latitude" :"23° 29' N	",
+	                     "longitude":"80° 09' E"
+	    }]
 },
 {
-	"state": "Madhya Pradesh",
-	"cities":["Bhopal [Bhopal]","Indore","Jabalpur","Gwalior","Ujjain","Sagar","Gwalior","Ujjain","Dewas",
-		"Satna","Ratlam","Chhindwara","Chhatarpur","Damoh","Khargone","Neemuch","Pithampur","Itarsi","Sehore"]
+	"name": "Manipur",
+	"cities":[
+		{
+			             "name":"Imphal",
+		                 "latitude" :"24° 44' N",
+	                     "longitude":"93° 58' E"
+	    },
+	    {
+			             "name":"Bishnupur",
+		                 "latitude" :"23.0679° N",
+	                     "longitude":"87.3165° E"
+	    },
+	    {
+			             "name":"Churachandpur",
+		                 "latitude" :"24.2994° N ",
+	                     "longitude":"93.2584° E"
+	    },
+	    {
+			             "name":"Chandel",
+		                 "latitude" :"24.1827° N ",
+	                     "longitude":"94.1514° E"
+	    },
+	    {
+			             "name":"Senapati",
+		                 "latitude" :"25.3203° N",
+	                     "longitude":"94.1514° E"
+	    },
+	    {
+			             "name":"Tamenglong",
+		                 "latitude" :"24.9582° N",
+	                     "longitude":"93.5003° E"
+	    },
+	    {
+			             "name":"Thoubal",
+		                 "latitude" :"24.5436° N",
+	                     "longitude":"93.9674° E"
+	    },
+	    {
+			             "name":"Ukhrul",
+		                 "latitude" :"24.9321° N",
+	                     "longitude":"94.4800° E"
+	    }]
 },
 {
-	"state": "Manipur",
-	"cities":["Imphal ","Bishnupur","Churachandpur","Chandel","Senapati ","Tamenglong","Thoubal","Ukhrul"]
+	"name": "Meghalaya",
+	"cities":[
+		{
+			             "name": "Shillong",
+		                 "latitude" :"25.5788° N",
+	                     "longitude":"91.8933° E"
+	    },
+	    {
+			             "name": "Ribhoi",
+		                 "latitude" :"25.8432° N",
+	                     "longitude":"91.9856° E"
+	    },
+	    {
+			             "name":"khasi",
+		                 "latitude" :"25.3681768 N",
+	                     "longitude":"91.7538817 E"
+	    },
+	    {
+			             "name": "Garo",
+		                 "latitude" :"25.5000° N ",
+		                 "longitude":"90.3333° E"
+	    }]
 },
 {
-	"state": "Meghalaya",
-	"cities":["Shillong","Ribhoi","khasi","Garo"]
+	"name": "Mizoram",
+	"cities":[
+		{
+			             "name": "Aizawl",
+		                 "latitude" :"23° 36' N",
+	                     "longitude":"93° 00' E"
+	    },
+	    {
+			             "name":"Kolasib",
+		                 "latitude" :"24.1670° N",
+	                     "longitude":"92.7382° E"
+	    },
+	    {
+			             "name": "Lawngtlai",
+		                 "latitude" :"22.5284° N",
+	                     "longitude":"92.8926° E"
+	    },
+	    {
+			             "name":"Lunglei",
+		                 "latitude" :"22.8671° N",
+	                     "longitude":"92.7655° E"
+	    },
+	    {
+			             "name":"Mamit",
+		                 "latitude" :"23.6474° N",
+	                     "longitude":"92.5396° E"
+	    },
+	    {
+			             "name":"Siaha",
+		                 "latitude" :"22.3527° N",
+	                     "longitude":"93.0576° E"
+	    },
+	    {
+			             "name":"Serchhip",
+		                 "latitude" :"23.3081° N",
+	                     "longitude":"92.8976° E"
+	    },
+	    ]
 },
 {
-	"state": "Mizoram",
-	"cities":["Aizawl","Kolasib","Lawngtlai","Lunglei","Mamit","Siaha","Serchhip","Champhai"]
+	"name": "Nagaland",
+	"cities":[
+		{
+			             "name":"Kohima",
+		                 "latitude" :"25° 40' N",
+	                     "longitude":"94° 08' E"
+	    },
+	    {
+			             "name": "Dimapur",
+		                 "latitude" :"25.8630° N",
+	                     "longitude":" 93.7537° E"
+	    },
+	    {
+			             "name":"Kiphire",
+		                 "latitude" :"25.8188° N",
+	                     "longitude":" 94.8521° E"
+	    },
+	    {
+			             "name":"Kohima",
+		                 "latitude" :"25.6586° N ",
+	                     "longitude":"94.1053° E"
+	    },
+	    {
+			             "name":"Longleng",
+		                 "latitude" :"26.5986° N",
+	                     "longitude":"94.7899° E"
+	    },
+	    {
+			             "name":"Mokokchung",
+		                 "latitude" :"26.3220° N",
+	                     "longitude":"94.5135° E"
+	    },
+	    {
+			             "name":"Mon",
+		                 "latitude" :"26.8038° N",
+	                     "longitude":"94.9767° E"
+	    },
+	    {
+			             "name":"Peren",
+		                 "latitude" :"25.5225° N",
+	                     "longitude":"93.6623° E"
+	    },
+	    {
+			             "name":"Phek",
+		                 "latitude" :"25.7375° N",
+	                     "longitude":"94.4388° E"
+	    },
+	    {
+			             "name":"Tuensang",
+		                 "latitude" :"26.2447° N",
+	                     "longitude":"94.8106° E"
+	    },
+	    {
+			             "name":"Wokha",
+		                 "latitude" :"26.2168° N ",
+	                     "longitude":"94.1923° E"
+	    },
+        {
+			             "name":"Zunheboto",
+		                 "latitude" :"26.0182° N",
+	                     "longitude":"94.5212° E"
+	    }]
 },
 {
-	"state": "Nagaland",
-	"cities":["Kohima","Dimapur","Kiphire","Kohima","Longleng","Mokokchung","Mon","Peren","Phek","Tuensang","Wokha",
-"Zunheboto"]
+	"name": "Odisha (Orissa)",
+	"cities":[
+		{
+			             "name":"Bhubaneswar",
+		                 "latitude" :"20.2961° N",
+	                     "longitude":"85.8245° E"
+	    },
+	    {
+			             "name":"Puri",
+		                 "latitude" :"19° 48' N	",
+	                     "longitude":"85° 52 ' E"
+	    },
+	    {
+			             "name": "Cuttack",
+		                 "latitude" :"20° 28' N	",
+	                     "longitude":"85° 54' E"
+	    },
+	    {
+			             "name":"Brahmapur",
+		                 "latitude" :"19° 18' N",
+	                     "longitude":"84° 51' E"
+	    },
+	    {
+			             "name":"Angul",
+		                 "latitude" :"20.9211° N",
+	                     "longitude":"84.8568° E"
+	    },
+	    {
+			             "name":"Boudh",
+		                 "latitude" :"20° 50' N",
+	                     "longitude":"84° 52' E"
+	    },
+	    {
+			             "name":"Balangir",
+		                 "latitude" :"20.6723° N",
+	                     "longitude":"83.1649° E"
+	    },
+	    {
+			             "name":"Baleswar",
+		                 "latitude" :"21° 30' N",
+	                     "longitude":"86° 54' E"
+	    },	
+	    {
+			             "name": "Deogarh",
+		                 "latitude" :"21° 32' N",
+	                     "longitude":"84° 46' E"
+	    },
+       {
+			             "name":"Bargarh",
+		                 "latitude" :"21.2550° N",
+	                     "longitude":"83.5070° E"
+	    },
+       {
+			             "name":"Dhenkanal",
+		                 "latitude" :"20° 40'N",
+	                     "longitude":" 85° 38' E"
+	    }{
+			             "name": "Kodagu",
+		                 "latitude" :"19° 04' N	",
+	                     "longitude":"82° 24' E"
+	    },
+	    {
+			             "name":"Bhadrak",
+		                 "latitude" :"21° 03' N	",
+	                     "longitude":"86° 33' E"
+	    },
+	    {
+			             "name":"Gajapati",
+		                 "latitude" :"19.1912° N",
+	                     "longitude":"84.1857° E"
+	    },
+	    {
+			             "name":"Ganjam",
+		                 "latitude" :"19° 22' N",
+	                     "longitude":"	85° 06' E"
+	    },
+	    {
+			             "name":"Kandhamal",
+		                 "latitude" :"20° 42' N	",
+	                     "longitude":"84° 20' E"
+	    },
+	    {
+			             "name": "Jagatsinghpur",
+		                 "latitude" :"20.1976° N",
+	                     "longitude":"86.3377° E"
+	    },
+	    {
+			             "name":"Kendrapara",
+		                 "latitude" :"20° 30' N	",
+	                     "longitude":"86° 28' E"
+	    },
+	    {
+			             "name":"Jajpur",
+		                 "latitude" :"18° 52' N	",
+	                     "longitude":"82° 38' E"
+	    },
+       {
+			             "name":"Kendujhar",
+		                 "latitude" :"21° 30' N	",
+	                     "longitude":"85° 30' E"
+	    },
+	    {
+			             "name":"Jharsuguda",
+		                 "latitude" :"21.8554° N",
+	                     "longitude":"84.0062° E"
+	    },
+	    {
+			             "name":"Khordha",
+		                 "latitude" :"20.1301° N ",
+	                     "longitude":"85.4788° E"
+	    },
+	    {
+			             "name": "Kalahandi",
+		                 "latitude" :"19° 40' N	",
+	                     "longitude":"83° 00' E"
+	    },
+	    {
+			             "name":"Koraput",
+		                 "latitude" :"18.8561° N",
+	                     "longitude":"82.7347° E"
+	    },
+	    {
+			             "name":"Malkangiri",
+		                 "latitude" :"18° 22' N",
+	                     "longitude":"81° 56' E"
+	    },
+	    
+	    {
+			             "name":"Mayurbhanj",
+		                 "latitude" :"18.1641° N",
+	                     "longitude":"81.9535° E"
+	    },
+	    {
+			             "name":"Rayagada",
+		                 "latitude" :"19° 09' N",
+	                     "longitude":"83° 27 ' E"
+	    },
+        {
+			             "name":"Nabarangpur",
+		                 "latitude" :"19.5001° N",
+	                     "longitude":"82.3018° E"
+	    },
+	    {
+			             "name":"Sambalpur",
+		                 "latitude" :"21° 28' N	",
+	                     "longitude":"84° 01 ' E"
+	    },
+	    {
+			             "name":"Nayagarh",
+		                 "latitude" :"20° 08' N",
+	                     "longitude":"85° 08' E"
+	    },
+	    {
+			             "name":"Subarnapur",
+		                 "latitude" :"20.9338° N",
+	                     "longitude":"83.8049° E"
+	    },
+	    {
+			             "name":"Nuapada",
+		                 "latitude" :"20.5071° N",
+	                     "longitude":"82.6051° E"
+	    }]
 },
 {
-	"state": "Odisha (Orissa)",
-	"cities":["Bhubaneswar","Puri","Cuttack","Brahmapur","Angul","Boudh","Balangir","Baleswar",	"Deogarh"
-"Bargarh	","Dhenkanal","Bhadrak","Gajapati","Ganjam","Kandhamal","Jagatsinghpur","Kendrapara","Jajpur",
-"Kendujhar","Jharsuguda","Khordha","Kalahandi","Koraput","Malkangiri","Puri","Mayurbhanj","Rayagada",
-"Nabarangpur","Sambalpur","Nayagarh","Subarnapur","Nuapada","Sundargarh"]
+	"name": "Punjab",
+	"cities":[
+		{
+			             "name":"Chandigarh",
+		                 "latitude" :"30.7333° N ",
+	                     "longitude":"76.7794° E"
+	    },
+	    {
+			             "name":"Amritsar",
+		                 "latitude" :"31° 37' N	",
+	                     "longitude":"74° 55' E"
+	    },
+	    {
+			             "name":"Barnala",
+		                 "latitude" :"30.3819° N",
+	                     "longitude":"75.5468° E"
+	    },
+	    {
+			             "name": "Bathinda",
+		                 "latitude" :"30.2110° N",
+	                     "longitude":"74.9455° E"
+	    },
+	    {
+			             "name":"Faridkot",
+		                 "latitude" :"30.6782° N ",
+	                     "longitude":"74.7396° E"
+	    },
+	    {
+			             "name":"Fatehgarh",
+		                 "latitude" :"30.6811° N",
+	                     "longitude":"76.4100° E"
+	    },
+	    
+		{
+			             "name":"Fazilika",
+		                 "latitude" :"30° 25' N	",
+	                     "longitude":"74° 04' E"
+	    },
+	    {
+			             "name":"Firozpur",
+		                 "latitude" :"30° 55' N",
+	                     "longitude":"74° 40' E"
+	    },
+	    {
+			             "name":"Gurdaspur",
+		                 "latitude" :"32° 03' N",
+	                     "longitude":"75° 27' E"
+	    },
+	    {
+			             "name":"Hoshiarpur",
+		                 "latitude" :"31° 32' N	",
+	                     "longitude":"75° 57' E"
+	    },
+	    {
+			             "name":"Jalandhar",
+		                 "latitude" :"31° 19' N	",
+	                     "longitude":"35° 18' E"
+	    },
+	    {
+			             "name":"Kapurthala",
+		                 "latitude" :"31° 23' N	",
+	                     "longitude":"75° 25' E"
+	    },
+	    {
+			             "name":"Ludhiana",
+		                 "latitude" :"30° 55' N	",
+	                     "longitude":"75° 54' E"
+	    },
+	    {
+			             "name": "Mansa",
+		                 "latitude" :"29.9995° N",
+	                     "longitude":"75.3937° E"
+	    },
+	    {
+			             "name":"Moga",
+		                 "latitude" :"30.8165° N",
+	                     "longitude":"75.1717° E"
+	    },
+	    {
+			             "name":"Ajitgarh",
+		                 "latitude" :"27.4209° N",
+	                     "longitude":"75.8182° E"
+	    }]
 },
 {
-	"state": "Punjab",
-	"cities":["Chandigarh","Amritsar","Amritsar","Barnala","Bathinda","Faridkot","Fatehgarh","Sahib",
-		"Fazilika","Firozpur","Gurdaspur","Hoshiarpur","Jalandhar","Kapurthala","Ludhiana","Mansa","Moga","Ajitgarh" ]
+	"name": "Rajasthan",
+	"cities":[
+		{
+			             "name":"Jaipur",
+		                 "latitude" :"	26° 55' N",
+	                     "longitude":"75° 52' E"
+	    },
+	    {
+			             "name":"Jodhpur",
+		                 "latitude" :"26° 18' N	",
+	                     "longitude":"73° 04' E"
+	    },
+	    {
+			             "name":"Kota",
+		                 "latitude" :"25° 10' N",
+	                     "longitude":"	75° 52' E"
+	    },
+	    {
+			             "name":"Bikaner",
+		                 "latitude" :"28° 01' N",
+	                     "longitude":"	73° 22' E"
+	    },
+	    {
+			             "name":"Ajmer",
+		                 "latitude" :"26° 27' N",
+	                     "longitude":"74° 42' E"
+	    },
+	    {
+			             "name":"Alwar",
+		                 "latitude" :"27° 34' N	",
+	                     "longitude":"76° 38' E"
+	    },
+	    {
+			             "name":"Banswara",
+		                 "latitude" :"23° 30' N",
+	                     "longitude":"74° 24' E"
+	    },
+	    {
+			             "name":"Baran",
+		                 "latitude" :"25° 05' N",
+	                     "longitude":"76° 33' E"
+	    },
+	    {
+			             "name":"Barmer",
+		                 "latitude" :"25° 45' N	",
+	                     "longitude":"71° 25' E"
+	    },
+	    {
+			             "name":"Bharatpur",
+		                 "latitude" :"27° 15' N	",
+	                     "longitude":"77° 30' E"
+	    },
+		{
+			             "name":"Bhilwara",
+		                 "latitude" :"25° 21' N	",
+	                     "longitude":"74° 40' E"
+	    },
+	    
+	    {
+			             "name":"Bundi",
+		                 "latitude" :"25° 27' N",
+	                     "longitude":"75° 41' E"
+	    },
+	    {
+			             "name":"Chittorgarh",
+		                 "latitude" :"24° 54' N	",
+	                     "longitude":"74° 42' E"
+	    },
+	    {
+			             "name": "Churu",
+		                 "latitude" :"28° 19' N	",
+	                     "longitude":"75° 01' E"
+	    },
+	    {
+			             "name": "Dausa",
+		                 "latitude" :"26.2009° N",
+	                     "longitude":"84.2002° E"
+	    },
+	    {
+			             "name":"Dholpur",
+		                 "latitude" :"26° 42' N	",
+	                     "longitude":"77° 53' E"
+	    },
+	    {
+			             "name":"Dungarpur",
+		                 "latitude" :"23° 50' N",
+	                     "longitude":"73° 50' E"
+	    },
+	    {
+			             "name":"Hanumangarh",
+		                 "latitude" :"29° 35' N	",
+	                     "longitude":"74° 21' E"
+	    },
+	    {
+			             "name":"Jaisalmer",
+		                 "latitude" :"26° 55' N",
+	                     "longitude":"	70° 57' E"
+	    },
+		{
+			             "name":"Jalore",
+		                 "latitude" :"25° 22' N",
+	                     "longitude":"72° 58' E"
+	    },
+	    {
+			             "name":"Jhalawar",
+		                 "latitude" :"",
+	                     "longitude":"88.77"
+	    },
+	    {
+			             "name":"Jhunjhunu",
+		                 "latitude" :"28° 06' N",
+	                     "longitude":"	75° 20' E"
+	    },
+	    {
+			             "name":"Jodhpur",
+		                 "latitude" :"26° 18' N",
+	                     "longitude":"73° 04' E"
+	    },
+	    {
+			             "name":"Karauli",
+		                 "latitude" :"26° 30' N",
+	                     "longitude":"77° 04' E"
+	    },
+	    {
+			             "name":"Nagaur",
+		                 "latitude" :"27° 00' N	",
+	                     "longitude":"73° 40' E"
+	    },
+	    {
+			             "name": "Pali",
+		                 "latitude" :"25° 46' N",
+	                     "longitude":"73° 25' E"
+	    },
+	    {
+			             "name":"Pratapgarh",
+		                 "latitude" :"24° 02' N	",
+	                     "longitude":"74° 4' E"
+	    },
+	    {
+			             "name":"Rajsamand",
+		                 "latitude" :"28° 39' N	",
+	                     "longitude":"75° 26' E"
+	    },
+	    {
+			             "name":"SawaiMadhopur",
+		                 "latitude" :"25° 58' N	",
+	                     "longitude":"76° 3' E"
+	    },
+		
+	    {
+			             "name":"Sikar",
+		                 "latitude" :"27° 36' N	",
+	                     "longitude":"75° 15' E"
+	    },
+	    {
+			             "name":"Sirohi",
+		                 "latitude" :"24.7467° N",
+	                     "longitude":"72.8043° E"
+	    },
+	    {
+			             "name":"Sriganganagar",
+		                 "latitude" :"29.9038° N",
+	                     "longitude":"73.8772° E"
+	    },
+	    {
+			             "name":"Tonk",
+		                 "latitude" :"26° 11' N	",
+	                     "longitude":"75° 50' E"
+	    },
+	    {
+			             "name":"Udaipur",
+		                 "latitude" :"27° 42' N",
+	                     "longitude":"75° 33' E"
+	    }]
 },
 {
-	"state": "Rajasthan",
-	"cities":["Jaipur","Jodhpur","Kota","Bikaner","Ajmer ","Alwar","Banswara","Baran","Barmer","Bharatpur",
-		"Bhilwara","Bikaner","Bundi","Chittorgarh","Churu","Dausa","Dholpur","Dungarpur","Hanumangarh","Jaisalmer",
-		"Jalore","Jhalawar","Jhunjhunu","Jodhpur","Karauli","Nagaur","Pali","Pratapgarh","Rajsamand","Sawai",
-		"Madhopur","Sikar","Sirohi","Sriganganagar","Tonk","Udaipur"]
+	"name": "Sikkim",
+	"cities":[{
+			             "name":"Gangtok",
+		                 "latitude" :"27.20 N",
+	                     "longitude":"88.40 E"
+	    },
+	    {
+			             "name":"Gyalshing",
+		                 "latitude" :"27.2644° N",
+	                     "longitude":"88.2765° E"
+	    },
+	    {
+			             "name":"Jorethang",
+		                 "latitude" :"27.1317° N ",
+	                     "longitude":"88.2796° E"
+	    },
+	    {
+			             "name":"Mangan",
+		                 "latitude" :"27.4979° N",
+	                     "longitude":"88.5348° E"
+	    }]
 },
 {
-	"state": "Sikkim",
-	"cities":["Gangtok","Gyalshing","Jorethang","Mangan"]
+	"name": "Tamil Nadu",
+	"cities":[{
+			             "name":"Chennai",
+		                 "latitude" :"13.0827° N",
+	                     "longitude":"80.2707° E"
+	    },
+	    {
+			             "name":"Coimbatore",
+		                 "latitude" :"11° 00' N	",
+	                     "longitude":"77° 00' E"
+	    },
+	    {
+			             "name":"Madurai",
+		                 "latitude" :"9° 58' N",
+	                     "longitude":"78° 10' E"
+	    },
+	    {
+			             "name":"Tiruchirappalli",
+		                 "latitude" :"10° 50' N	",
+	                     "longitude":"78° 46' E"
+	    },
+	    {
+			             "name":"Ariyalur",
+		                 "latitude" :"11.1401° N",
+	                     "longitude":"79.0786° E"
+	    },
+	    {
+			             "name":"Karur",
+		                 "latitude" :"10° 58' N",
+	                     "longitude":"78° 07' E"
+	    },
+	    {
+			             "name":"Nagapattinam",
+		                 "latitude" :"10.7656° N",
+	                     "longitude":"79.8424° E"
+	    },
+	    {
+			             "name":"Perambalur",
+		                 "latitude" :"11.2266° N",
+	                     "longitude":"78.9288° E"
+	    },
+	    {
+			             "name":"Pudukkottai",
+		                 "latitude" :"10.3797° N",
+	                     "longitude":"78.8208° E"
+	    },
+        {
+			             "name":"Thanjavur",
+		                 "latitude" :"10° 47' N	",
+	                     "longitude":"79° 10' E"
+	    },
+	    {
+			             "name":"Tiruchirappalli",
+		                 "latitude" :"10° 50' N	",
+	                     "longitude":"78° 46' E"
+	    },
+	    {
+			             "name":"Tiruvarur",
+		                 "latitude" :"13° 09' N",
+	                     "longitude":"79° 57' E"
+	    },
+	    {
+			             "name":"Dharmapuri",
+		                 "latitude" :"12° 08' N	",
+	                     "longitude":"78° 13' E"
+	    },
+	    {
+			             "name":"Erode",
+		                 "latitude" :"11° 20' N	",
+	                     "longitude":"77° 46' E"
+	    },
+	    {
+			             "name":"Krishnagiri",
+		                 "latitude" :"12° 32' N	",
+	                     "longitude":"78° 16' E"
+	    },
+	    {
+			             "name":"Namakkal",
+		                 "latitude" :"11° 13 ' N",
+	                     "longitude":"78° 13' E"
+	    },
+	    {
+			             "name":"Salem",
+		                 "latitude" :"11° 39' N",
+	                     "longitude":"78° 12 ' E"
+	    },
+	    {
+			             "name":"Tiruppur",
+		                 "latitude" :"11° 05' N	",
+	                     "longitude":"77° 20' E"
+	    },
+	    {
+			             "name": "Dindigul",
+		                 "latitude" :"10° 22' N	",
+	                     "longitude":"78° 00' E"
+	    },
+	    {
+			             "name": "Kanyakumari",
+		                 "latitude" :"8.0883° N ",
+	                     "longitude":"77.5385° E"
+	    },
+       {
+			             "name": "Ramanathapuram",
+		                 "latitude" :"9° 22' N",
+	                     "longitude":"78° 52 ' E"
+	    },
+	    {
+			             "name":"Sivaganga",
+		                 "latitude" :"9.9726° N",
+	                     "longitude":"78.5661° E"
+	    },
+	    {
+			             "name":"Theni",
+		                 "latitude" :"9.9330° N",
+	                     "longitude":"77.4702° E"
+	    },
+	    {
+			             "name":"Thoothukudi",
+		                 "latitude" :"8.7642° N",
+	                     "longitude":"78.1348° E"
+	    },
+	    {
+			             "name":"Tirunelveli",
+		                 "latitude" :"8.7139° N",
+	                     "longitude":"77.7567° E"
+	    },
+	    {
+			             "name":"Virudhunagar",
+		                 "latitude" :"9° 35' N	",
+	                     "longitude":"77° 57' E"
+	    },
+	    {
+			             "name":"Cuddalore",
+		                 "latitude" :"11° 43' N",
+	                     "longitude":"79° 49' E"
+	    },
+	    {
+			             "name":"Kanchipuram",
+		                 "latitude" :"12° 50' N",
+	                     "longitude":"79° 45' E"
+	    },
+        {
+			             "name":"Tiruvallur",
+		                 "latitude" :"13.2544° N",
+	                     "longitude":"80.0088° E"
+	    },
+	    {
+			             "name": "Tiruvannamalai",
+		                 "latitude" :"12° 15' N	",
+	                     "longitude":"79° 07' E"
+	    },
+	    {
+			             "name":"Vellore",
+		                 "latitude" :"12° 55' N	",
+	                     "longitude":"79° 11' E"
+	    },
+	    {
+			             "name":"Viluppuram",
+		                 "latitude" :"9° 35' N	",
+	                     "longitude":"77° 57' E"
+	    }]{
+			             "name": "Kodagu",
+		                 "latitude" :"12.3375° N",
+	                     "longitude":"75.8069° E"
+	    }
 },
 {
-	"state": "Tamil Nadu",
-	"cities":["Chennai","Coimbatore","Madurai","Tiruchirappalli","Ariyalur",,"Karur","Nagapattinam","Perambalur","Pudukkottai",
-"Thanjavur","Tiruchirappalli","Tiruvarur","Dharmapuri","Erode","Krishnagiri","Namakkal","Salem","Tiruppur","Dindigul","Kanyakumari",
-"Ramanathapuram","Sivaganga","Theni","Thoothukudi","Tirunelveli","Virudhunagar","Cuddalore","Kanchipuram",
-"Tiruvallur","Tiruvannamalai","Vellore","Viluppuram"]
+	"name": "Telagana",
+	"cities":[
+		{
+			             "name": "Hyderabad",
+		                 "latitude" :"17.3850° N",
+	                     "longitude":"78.4867° E"
+	    },
+	    {
+			             "name": "Warangal",
+		                 "latitude" :"17° 58' N	",
+	                     "longitude":"79° 40' E"
+	    },
+	    {
+			             "name":"khammam",
+		                 "latitude" :"17° 15' N",
+	                     "longitude":"80° 11' E"
+	    },
+	    {
+			             "name":"karimnagar",
+		                 "latitude" :"18° 28' N	",
+	                     "longitude":"79° 06' E"
+	    },
+	    {
+			             "name":"mahaboobnagar",
+		                 "latitude" :"16° 42' N	",
+	                     "longitude":"77° 58' E"
+	    },
+	    {
+			             "name": "Nalgonda",
+		                 "latitude" :"17° 03' N",
+	                     "longitude":"	79° 02' E"
+	    },
+	    {
+			             "name":"Medak",
+		                 "latitude" :"18° 03' N	",
+	                     "longitude":"78° 18' E"
+	    },
+	    {
+			             "name":"Nizambad",
+		                 "latitude" :"18° 40 ' N",
+	                     "longitude":"78° 10' E"
+	    },
+	    {
+			             "name": "Ragareddy",
+		                 "latitude" :"",
+	                     "longitude":"88.77"
+	    },
+	    {
+			             "name":"Adilabad",
+		                 "latitude" :"19° 37' N",
+	                     "longitude":"	78° 30' E"
+	    }]
 },
 {
-	"state": "Telagana",
-	"cities":["Hyderabad","Warangal","khammam","karimnagar","mahaboobnagar","Nalgonda","Medak","Nizambad","Ragareddy","Adilabad"]
+	"name": "Tripura",
+	"cities":[
+		{
+			             "name": "Agartala",
+		                 "latitude" :"23° 50' N",
+	                     "longitude":"91° 25' E"
+	    },
+	    {
+			             "name":"Amarpur",
+		                 "latitude" :"25.0397° N",
+	                     "longitude":"86.9036° E"
+	    },
+	    {
+			             "name":"Belonia",
+		                 "latitude" :"23.2505° N",
+	                     "longitude":"91.4676° E"
+	    },
+	    {
+			             "name":"Dharmanagar",
+		                 "latitude" :"24.3783° N",
+	                     "longitude":"92.1548° E"
+	    },
+	   
+	    {
+			             "name":"Gomati",
+		                 "latitude" :"23.5167° N",
+	                     "longitude":"91.6372° E"
+	    },
+	    {
+			             "name":"Khowai",
+		                 "latitude" :"23.8974° N",
+	                     "longitude":"91.6372° E"
+	    }]
 },
 {
-	"state": "Tripura",
-	"cities":["Agartala","Amarpur","Belonia","Dharmanagar","Dhalai","Gomati","Khowai"]
+	"name": "Uttar Pradesh",
+	"cities":[
+		{
+			             "name":"Lucknow",
+		                 "latitude" :"26° 55' N",
+	                     "longitude":"80° 59' E"
+	    },
+	    {
+			             "name": "Agra",
+		                 "latitude" :"27° 10' N	",
+	                     "longitude":">78° 05' E"
+	    },
+	    {
+			             "name":"Varanasi",
+		                 "latitude" :"25° 20' N	",
+	                     "longitude":"83° 00' E"
+	    },
+	    {
+			             "name":"Allahabad",
+		                 "latitude" :"25° 28' N	",
+	                     "longitude":"81° 54' E"
+	    },
+	    {
+			             "name": "Bareilly",
+		                 "latitude" :"28° 22' N	",
+	                     "longitude":"79° 27' E"
+	    },
+	    {
+			             "name": "Firozabad",
+		                 "latitude" :"27° 09' N	",
+	                     "longitude":"78° 24' E"
+	    },
+	    {
+			             "name":"Mainpuri",
+		                 "latitude" :"27° 14' N	",
+	                     "longitude":"79° 03' E"
+	    },
+	    {
+			             "name": "Mathura",
+		                 "latitude" :"27° 28' N	",
+	                     "longitude":"77° 41' E"
+	    },
+	    {
+			             "name":"Chandauli",
+		                 "latitude" :"28° 27' N	",
+	                     "longitude":"78° 49' E"
+	    },
+	    {
+			             "name":"Ghazipur",
+		                 "latitude" :"28° 40' N",
+	                     "longitude":"77° 28' E"
+	    },
+        {
+			             "name":"Jaunpur",
+		                 "latitude" :"25° 46' N	",
+	                     "longitude":"82° 44' E"
+	    },
+	    {
+			             "name": "Muzaffarnagar",
+		                 "latitude" :"29° 28' N	",
+	                     "longitude":"77° 44' E"
+	    },
+	    {
+			             "name":"Saharanpur",
+		                 "latitude" :"27° 54' N	",
+	                     "longitude":"79° 57 ' E"
+	    },
+	    {
+			             "name":"Shamli",
+		                 "latitude" :"29.4508° N",
+	                     "longitude":"77.3152° E"
+	    },
+	    {
+			             "name": "Amroha",
+		                 "latitude" :"28° 54' N	",
+	                     "longitude":"78° 31' E"
+	    },
+	    {
+			             "name":"Bijnor",
+		                 "latitude" :"29° 23' N	",
+	                     "longitude":"79° 11' E"
+	    },
+	    {
+			             "name":"Moradabad",
+		                 "latitude" :"28° 51' N	",
+	                     "longitude":"78° 49' E"
+	    },
+	    {
+			             "name": "Rampur",
+		                 "latitude" :"28° 48' N	",
+	                     "longitude":"79° 05' E"
+	    },
+	    {
+			             "name":"Sambhal",
+		                 "latitude" :"28° 35' N	",
+	                     "longitude":"78° 37 ' E"
+	    },
+	    {
+			             "name": "Mirzapur",
+		                 "latitude" :"25° 10' N",
+	                     "longitude":"82° 37' E"
+	    },
+	    
+
+	    {
+			             "name":"RavidasNagar",
+		                 "latitude" :"25.38727 N",
+	                     "longitude":"82.5680309 E"
+	    },
+        ]
 },
 {
-	"state": "Uttar Pradesh",
-	"cities":["Lucknow","Agra","Varanasi","Allahabad","Bareilly","Firozabad","Mainpuri","Mathura","Chandauli","Ghazipur",
-"Jaunpur","Muzaffarnagar","Saharanpur","Shamli","Amroha","Bijnor","Moradabad","Rampur","Sambhal","Mirzapur","Sant","Ravidas","Nagar",
-"Sonbhadra"]
+	"name": "Uttarakhand",
+	"cities":[
+		{
+			             "name": "Dehardun",
+		                 "latitude" :"29.582861 N",
+	                     "longitude":"80.218185 E "
+	    },
+	    {
+			             "name":"Haridwar",
+		                 "latitude" :"29.9457° N",
+	                     "longitude":"78.1642° E"
+	    },
+	    {
+			             "name":"Roorkee",
+		                 "latitude" :"29.8543° N",
+	                     "longitude":"77.8880° E"
+	    },
+	    {
+			             "name":"Rudrapur",
+		                 "latitude" :"28.9875° N",
+	                     "longitude":"79.4141° E"
+	    },
+	    {
+			             "name": "Almora",
+		                 "latitude" :"29.8150° N",
+	                     "longitude":"79.2902° E"
+	    },
+	    {
+			             "name":"Nainital",
+		                 "latitude" :"29.3803° N",
+	                     "longitude":"79.4636° E"
+	    },
+	    {
+			             "name":"Bageshwar",
+		                 "latitude" :"29.9987° N",
+	                     "longitude":"79.8745° E"
+	    },
+	    {
+			             "name":"Haridwar",
+		                 "latitude" :"29.9457° N",
+	                     "longitude":"78.1642° E"
+	    },
+	    {
+			             "name":"Chamoli",
+		                 "latitude" :"30.2937° N",
+	                     "longitude":"79.5603° E"
+	    },
+		{
+			             "name": "Champawat",
+		                 "latitude" :"29.3361° N",
+	                     "longitude":"80.0910° E"
+	    },
+	    {
+			             "name":"Pithoragarh",
+		                 "latitude" :"30.0815° N",
+	                     "longitude":"80.3659° E"
+	    },
+	    {
+			             "name":"Rudraprayag",
+		                 "latitude" :"30.4807° N",
+	                     "longitude":"79.0645° E"
+	    },
+	    {
+			             "name":"Tehri",
+		                 "latitude" :"30° 20' N	",
+	                     "longitude":"78° 53' E"
+	    },
+	    {
+			             "name": "Udham Singh Nagar",
+		                 "latitude" :"28.9610° N",
+	                     "longitude":"79.5154° E"
+	    },
+	    {
+			             "name":"Uttarkashi",
+		                 "latitude" :"30.7268° N",
+	                     "longitude":"78.4354° E"
+	    },
+	    
+	    {
+			             "name":"Pauri",
+		                 "latitude" :"29.8688° N",
+	                     "longitude":"78.8383° E"
+	    }]
 },
 {
-	"state": "Uttarakhand",
-	"cities":["Dehardun","Haridwar","Roorkee","Rudrapur","Almora","Nainital","Bageshwar","Haridwar","Chamoli",
-		"Champawat","Pithoragarh","Rudraprayag","Tehri","Udham Singh Nagar","Uttarkashi","Dehradun","Pauri"]
-},
-{
-	"state": "West Bengal",
-	"cities":["Kolkata","Durgapur","siliguri","Baharampur","Bankura", "Birbhum", "Burdwan", "Darjeeling", "Jalpaiguri", 
-"Hooghly", "Howrah", "Malda", "Midnapore", "Murshidabad", "Nadia","West Dinajpur","24 Parganas"]
+	"name": "West Bengal",
+	"cities":[
+		{
+			             "name":"Kolkata",
+		                 "latitude" :"22° 34' N	",
+	                     "longitude":"88° 24' E"
+	    },
+	    {
+			             "name":"Durgapur",
+		                 "latitude" :"23° 30' N	",
+	                     "longitude":"87° 20' E"
+	    },
+	    {
+			             "name":"siliguri",
+		                 "latitude" :"26° 42' N	",
+	                     "longitude":"88° 25 ' E"
+	    },
+	    {
+			             "name":"Baharampur",
+		                 "latitude" :"24° 06' N	",
+	                     "longitude":"88° 19' E"
+	    },
+	    {
+			             "name": "Bankura",
+		                 "latitude" :"23° 14' N	",
+	                     "longitude":"87° 07' E"
+	    },
+	    {
+			             "name": "Birbhum",
+		                 "latitude" :"23.8402° N ",
+	                     "longitude":"87.6186° E"
+	    }, 
+	    {
+			             "name":"Burdwan",
+		                 "latitude" :"23.2324° N",
+	                     "longitude":"87.8615° E"
+	    },
+	    {
+			             "name": "Darjeeling",
+		                 "latitude" :"27° 03' N	",
+	                     "longitude":"88° 18' E"
+	    }, 
+	    {
+			             "name":"Jalpaiguri",
+		                 "latitude" :"26° 32' N	",
+	                     "longitude":"88° 46' E"
+	    }, 
+        {
+			             "name": "Hooghly",
+		                 "latitude" :"22.8963° N",
+	                     "longitude":"88.2461° E"
+	    },
+	    {
+			             "name":"Howrad",
+		                 "latitude" :"40.4077° N",
+	                     "longitude":"82.3264° W"
+	    }, 
+	    {
+			             "name": "Malda",
+		                 "latitude" :"25.1786° N",
+	                     "longitude":"88.2461° E"
+	    }, 
+	    {
+			             "name": "Midnapore",
+		                 "latitude" :"22.4309° N",
+	                     "longitude":"87.3215° E"
+	    }, 
+	    {
+			             "name": "Murshidabad",
+		                 "latitude" :"24° 11' N",
+	                     "longitude":"88° 19' E"
+	    }, 
+	    {
+			             "name":"Nadia",
+		                 "latitude" :"23.4710° N",
+	                     "longitude":" 88.5565° E"
+	    },
+	   {
+			             "name":  "West Dinajpur",
+		                 "latitude" :"25.2469° N",
+	                     "longitude":"88.7825° E"
+	    },
+	   {
+			             "name":  "24 Parganas",
+		                 "latitude" :"22.1352° N",
+	                     "longitude":"88.4016° E"
+	    }]
 },
 ]
