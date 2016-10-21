@@ -355,8 +355,8 @@
 	    },
 		{
 			             "name": "Korba",
-		                 "latitude" :"",
-	                     "longitude":""
+		                 "latitude" "26.2172° N"
+	                     "longitude":"50.1971° E"
 	    },
 	    {
 			             "name": "Raj Nandgaon",
@@ -1643,8 +1643,8 @@
 	    },
 	    {
 			             "name":"Jhalawar",
-		                 "latitude" :"",
-	                     "longitude":"88.77"
+		                 "latitude" :"24.5973° N",
+	                     "longitude":"88.7776.1610° E"
 	    },
 	    {
 			             "name":"Jhunjhunu",
